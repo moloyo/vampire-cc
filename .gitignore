@@ -1,11 +1,11 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-/.vs
-/packages
+.vs/*
+packages/*
 
-/CharacterCreator.DataAccess/bin
-/CharacterCreator.DataAccess/obj
-/CharacterCreator.Model/bin
-/CharacterCreator.Model/obj
-/CharacterCreator.UI/bin
-/CharacterCreator.UI/obj
+CharacterCreator.DataAccess/bin/*
+CharacterCreator.DataAccess/obj/*
+CharacterCreator.Model/bin/*
+CharacterCreator.Model/obj/*
+CharacterCreator.UI/bin/*
+CharacterCreator.UI/obj/*
