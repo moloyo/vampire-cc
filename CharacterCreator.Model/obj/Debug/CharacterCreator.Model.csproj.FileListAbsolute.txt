@@ -1,0 +1,6 @@
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\bin\Debug\CharacterCreator.Model.dll
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\bin\Debug\CharacterCreator.Model.pdb
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\obj\Debug\CharacterCreator.Model.csprojAssemblyReference.cache
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\obj\Debug\CharacterCreator.Model.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\obj\Debug\CharacterCreator.Model.dll
+C:\Users\joaquin.m.garcia\source\repos\CharacterCreator\CharacterCreator.Model\obj\Debug\CharacterCreator.Model.pdb
